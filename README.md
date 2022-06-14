@@ -2,3 +2,6 @@
 
 # Lumeo
 A programming language written in Go
+
+## What is MAPL?
+Lumeo was previously called MAPL. If you find "MAPL" somewhere in the code, ignore it.
