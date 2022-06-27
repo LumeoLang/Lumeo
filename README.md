@@ -1,7 +1,7 @@
 **Disclaimer:** Lumeo is Work in progress project. This code is not usable yet.
 
 <p align="center">
-  <img src="logo.png" />
+  <img src="ι Others\logo\logo 0101.png" />
 </p>
 
 # Lumeo
