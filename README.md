@@ -1,11 +1,6 @@
-**Disclaimer:** Lumeo is Work in progress project. This code is not usable yet.
+<small>**Disclaimer:** Lumeo is Work in progress project. This code is not usable yet.</small>
 
 <p align="center">
   <img src="ι Others\logo\logo 0101.png" width="60%" height="60%"/>
 </p>
 
-# Lumeo
-A programming language written in Go
-
-## What is MAPL?
-Lumeo was previously called MAPL. If you find "MAPL" somewhere in the code, ignore it.
