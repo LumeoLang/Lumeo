@@ -6,4 +6,5 @@ Welcome to Lumeo public repository.
 
 You're now browsing Lumeo's source code. You might be also interested in other Lumeo repositories:
 * [Lumeo Builds](https://github.com/vitkozel/Lumeo-Builds)
-* Lumeo Docs (Documentation) WIP
+* [LPM (Lumeo Package Manager)](https://github.com/vitkozel/Lumeo-LPM)
+* [Lumeo Docs](https://github.com/vitkozel/Lumeo-Docs)
