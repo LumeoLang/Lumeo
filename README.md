@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ι Others\logo\logo 010103.png" width="30%" height="30%"/>
+  <img src="ι Others\logo\logo 0103.png" width="30%" height="30%"/>
 </p>
 
 Welcome to Lumeo public repository.
