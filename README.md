@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LumeoLang/Logo/master/logo%200103.png" width="30%" height="30%"/>
+  <img src="https://raw.githubusercontent.com/LumeoLang/Logo/master/logo%200103.png" width="40%" height="40%"/>
 </p>
 
 Welcome to Lumeo public repository.
