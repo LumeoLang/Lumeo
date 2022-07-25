@@ -133,7 +133,7 @@ var builtins = map[string]*object.Builtin{
 
 			os.Exit(int(status))
 
-			return nil
+			return NULL
 		},
 	},
 }
