@@ -3,6 +3,7 @@ package evaluator
 import (
 	"fmt"
 	"lumeo/object"
+	"os"
 )
 
 var builtins = map[string]*object.Builtin{
@@ -112,6 +113,13 @@ var builtins = map[string]*object.Builtin{
 			newElements[length] = args[1]
 
 			return &object.Array{Elements: newElements}
+		},
+	},
+	"exit": &object.Builtin{
+		Fn: func(args ...object.Object) object.Object {
+			os.Exit(0)
+
+			return nil
 		},
 	},
 }
