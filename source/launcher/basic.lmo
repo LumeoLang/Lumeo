@@ -1,0 +1,6 @@
+var pepa = "ziju!";
+print(pepa);
+
+if (2 + 2 == 5) {
+    print(pepa);
+};
