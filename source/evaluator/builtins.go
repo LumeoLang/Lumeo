@@ -117,7 +117,21 @@ var builtins = map[string]*object.Builtin{
 	},
 	"exit": &object.Builtin{
 		Fn: func(args ...object.Object) object.Object {
-			os.Exit(0)
+			//fmt.Println("Exiting via exit()")
+			//fmt.Println(args)
+			if len(args) == 0 {
+				return newError("exit status code not specified")
+			} else if len(args) > 1 {
+				return newError("too many arguments. got=%d, want=1",
+					len(args))
+			}
+			if args[0].Type() != object.INTEGER_OBJ {
+				return newError("argument to `exit` must be INTEGER, got %s",
+					args[0].Type())
+			}
+			status := args[0].(*object.Integer).Value
+
+			os.Exit(int(status))
 
 			return nil
 		},
