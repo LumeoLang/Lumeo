@@ -1,6 +1,6 @@
 **Lumeo is using following open source applications:**
 
-### teenytinycompiler
+## teenytinycompiler
 
 Copyright (c) 2020 Austin Henley
 
@@ -23,7 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-### "Writing A Compiler In Go"
+## "Writing A Compiler In Go"
 
 Copyright (c) 2018 Thorsten Ball
 
